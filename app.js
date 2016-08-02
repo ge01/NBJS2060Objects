@@ -36,6 +36,7 @@ document.write("<br>");
 /****************************************************
 *            Adding Methods to Our Objects          *
 ****************************************************/
+// constructor with properties
 function people(name1, age1) {
   this.name1 = name1;
   this.age1 = age1;
